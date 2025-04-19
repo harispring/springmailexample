@@ -10,11 +10,7 @@ public class SpringmailexampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringmailexampleApplication.class, args);
-		//from remote
-		// this is from local
-		//this is second time
-		//this from remote second time
-		//this is last time
+		// these are the lines added from local
 	}
 
 }
