@@ -12,6 +12,7 @@ public class SpringmailexampleApplication {
 		SpringApplication.run(SpringmailexampleApplication.class, args);
 		//from remote
 		// this is from local
+		//this is second time
 	}
 
 }
