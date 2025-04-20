@@ -10,7 +10,9 @@ public class SpringmailexampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringmailexampleApplication.class, args);
+
 		// this was fine
+
 
 	}
 
