@@ -16,7 +16,10 @@ public class SpringmailexampleApplication {
 		
 		// changes by mkshith4
 
-			
+
+			// final changes were fixed. both are removed.
+		// added new comments
+
 
 
 	}
