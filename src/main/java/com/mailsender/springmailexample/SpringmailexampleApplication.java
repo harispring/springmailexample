@@ -10,9 +10,11 @@ public class SpringmailexampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringmailexampleApplication.class, args);
+		// changes by mkshith1
+		// changes by mkshith2
+		// changes by mkshith3
 
-
-			// final changes were fixed. both are removed.
+			
 
 
 	}
