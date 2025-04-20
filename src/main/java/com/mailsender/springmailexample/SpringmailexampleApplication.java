@@ -11,9 +11,7 @@ public class SpringmailexampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringmailexampleApplication.class, args);
 		// these changes done from aparna
-		
-		// these changes are done from local aparna
-
+		// local changes were final
 	}
 
 }
