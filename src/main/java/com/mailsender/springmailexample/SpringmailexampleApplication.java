@@ -11,7 +11,9 @@ public class SpringmailexampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringmailexampleApplication.class, args);
 
+
 			// final changes were fixed. both are removed.
+
 
 	}
 
