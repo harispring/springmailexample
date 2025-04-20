@@ -10,8 +10,11 @@ public class SpringmailexampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringmailexampleApplication.class, args);
-		// these changes done from aparna
-		// local changes were final
+
+
+			// final changes were fixed. both are removed.
+
+
 	}
 
 }
