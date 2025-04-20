@@ -11,6 +11,7 @@ public class SpringmailexampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringmailexampleApplication.class, args);
 		// these changes done from aparna
+		// these are done from remote aparna
 
 	}
 
