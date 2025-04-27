@@ -11,9 +11,8 @@ public class SpringmailexampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringmailexampleApplication.class, args);
 
-		// these are the commands added from local
+// changes are merged from hari to main
 
-		//changes had completed from remote
 
 
 
