@@ -11,7 +11,7 @@ public class SpringmailexampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringmailexampleApplication.class, args);
 
-// changes are merged from hari to main done
+// changes are merged from hari to main done new commit
 
 
 
